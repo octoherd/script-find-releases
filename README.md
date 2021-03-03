@@ -5,8 +5,7 @@
 ## Usage
 
 ```
-git clone https://github.com/octoherd/script-find-releases.git
-$ npx @octoherd/cli \
+$ npx @octoherd/script-close-renovate-dashboard-issues \
   --octoherd-token 0123456789012345678901234567890123456789 \
   script-star-or-unstar/script.js \
   "octokit/*"
