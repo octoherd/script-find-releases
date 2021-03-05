@@ -23,5 +23,6 @@
   },
   "bin": {
     "octoherd-script-find-releases": "./cli.js"
-  }
+  },
+  "repository": "github:octoherd/script-find-releases"
 }
