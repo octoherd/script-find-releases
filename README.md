@@ -7,7 +7,7 @@
 ```
 $ npx @octoherd/script-find-releases \
   --octoherd-token 0123456789012345678901234567890123456789 \
-  "octokit/*"
+  "octoherd/*"
 ```
 
 Optionally add a `--since` flag to ignore releases before a defined date, e.g. `--since 2020-02-02`
