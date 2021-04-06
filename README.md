@@ -7,7 +7,6 @@
 ```
 $ npx @octoherd/script-find-releases \
   --octoherd-token 0123456789012345678901234567890123456789 \
-  script-star-or-unstar/script.js \
   "octokit/*"
 ```
 
