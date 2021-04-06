@@ -24,5 +24,10 @@
   "bin": {
     "octoherd-script-find-releases": "./cli.js"
   },
-  "repository": "github:octoherd/script-find-releases"
+  "repository": "github:octoherd/script-find-releases",
+  "renovate": {
+    "extends": [
+      "github>octoherd/.github"
+    ]
+  }
 }
